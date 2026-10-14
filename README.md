@@ -42,6 +42,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
+- **[NeverDrafts](https://www.neverdrafts.com)** – Daily tracking of mentions, rank, citations and share of voice across ChatGPT, Claude, Google AI Mode & Perplexity, then writes and auto-publishes content (WordPress, Webflow, Shopify, Framer) targeting the prompts competitors win. Free audit; from $99 / mo.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
 - **[Peec AI](https://peec.ai)** – Marketing-team console benchmarking ChatGPT, Claude, Gemini & Perplexity visibility across countries; includes competitor leaderboards and scheduled PDF exports.
